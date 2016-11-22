@@ -17,3 +17,4 @@
 * [The Toyota Way to Lean] (http://amzn.to/2b9GYCL) by Liker, Convis - The missing link to long-term Lean success!
 * [The Fifth Discipline] (http://amzn.to/2b9Igha) by Senge - Become a learning organization and get over your "disabilities" that threaten your productivity and success.
 * [The Effective Executive] (http://amzn.to/2b6BgTo) by Drucker - The measure of an executive is the ability to "get the right things done."
+* [DevOps Handbook: How To Create World-Class Agility, Reliability, & Security in Technology Organizations] (http://amzn.to/2fnjTzW) by Gene Kim, Jez Humble, Patrick Debois, and John Willis - The DevOps Handbook shows why high-performing organizations are 2.5 times more likely than their peers to exceed exceed profitability, market share, and productivity goals.
