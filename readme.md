@@ -1,7 +1,7 @@
 ## Books List
 
-* [Accelerate] (http://a.co/2Rw62KQ) - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology
-* [The DevOps Handbook] (http://a.co/1ThFKDV) - How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+* [Accelerate](http://a.co/2Rw62KQ) - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology
+* [The DevOps Handbook](http://a.co/1ThFKDV) - How to Create World-Class Agility, Reliability, and Security in Technology Organizations
 * [Effective DevOps](http://amzn.to/2bzu3cU) - A practical guide for creating affinity among teams and promoting efficient tool usage in your company.
 * [Site Reliability Engineering](http://amzn.to/2brE0NA) - How Google Runs Production Systems.
 * [The Phoenix Project](http://amzn.to/2bt5AsE) - know why your projects are important to the business
